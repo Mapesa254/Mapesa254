@@ -1,8 +1,8 @@
 ## Hi there 👋 Am Benjamin
-* A tech enthusiast
+-  🧑‍💻A tech enthusiast
  - 🔭 I’m currently working on Gaming and data science projects
  - 🌱 I’m always learning something new everyday
-- 👯 I’m looking to collaborate on Machine Learning models
+- 👯 I’m looking to collaborate on creating Machine Learning models
 - ⚡ Fun fact: The only limit in the tech world is your imagination
 
 ## Interested in
