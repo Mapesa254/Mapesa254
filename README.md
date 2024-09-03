@@ -36,12 +36,11 @@
 ![CryEngine](https://img.shields.io/badge/CryEngine-FFFFFF?style=flat&logo=cryengine&logoColor=black)
 
 ## My Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mapesa254&theme=tokyonight&hide_border=true)
+![Mapesa254's Stats](https://github-readme-stats.vercel.app/api?username=Mapesa254&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mapesa254&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true)
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mapesa254&layout=compact&theme=tokyonight&hide_border=true)
+![Mapesa254's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mapesa254&theme=vue-dark&hide_border=true)
 
+![Mapesa254's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mapesa254&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!--
 **Mapesa254/Mapesa254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
